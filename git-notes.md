@@ -14,7 +14,8 @@
 - The `.gitignore` file tells Git what files to ignore
 
 ### Some comments
-history of repository for the course website:
-```
-git log --abbrev-commit --graph --pretty=oneline --all --decorate
-```
+- history of repository for the course website:
+  ```
+  git log --abbrev-commit --graph --pretty=oneline --all --decorate
+  ```
+- always do git status and git diff before making a commit: that’s where we would catch that an unwanted file would get committed, or that we added a typo, or forgot something etc
