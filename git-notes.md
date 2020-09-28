@@ -20,4 +20,8 @@
   ```
 - always do git status and git diff before making a commit: that’s where we would catch that an unwanted file would get committed, or that we added a typo, or forgot something etc
 - do not update your github repository by uploading files from the browser
-- Lesson: **all team members should pull often!**
+
+### Comments from Huitong Kou
+Awesome!
+- `git add .` is very useful.
+- `git pull` often.
